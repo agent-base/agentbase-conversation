@@ -1,0 +1,20 @@
+{
+  "app": {
+    "name": "My App",
+    "version": "Version",
+    "chats": "Chats",
+    "new_chat": "New Chat",
+    "start_chat": "Start Chat",
+    "try_to_ask": "Try to ask",
+    "opening_statement": "Opening statement",
+    "welcome_message": "👏 Welcome to AgentBase.AI",
+    "welcome_message_description": "AgentBase.AI is a platform that allows you to create your own chatbots. ",
+    "initial_prompt": "Initial prompt",
+    "opts": {
+      "add": "Add",
+      "edit": "Edit",
+      "delete": "Delete",
+      "save": "Save"
+    }
+  }
+}
